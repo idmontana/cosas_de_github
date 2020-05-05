@@ -5,4 +5,4 @@ Esta es una tarea de Laboratorio de Métodos computacionales
 Este repositorio fue realizado por Iván Darío Montaña.
 
 ## En colaboración con:
-Juan José Garzón
+Juan José Garzón :)
