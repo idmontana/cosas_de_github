@@ -2,4 +2,7 @@
 Esta es una tarea de Laboratorio de Métodos computacionales
 
 # Sobre el autor
-Esta 
+Este repositorio fue realizado por Iván Darío Montaña.
+
+## En colaboración con:
+Juan José Garzón
