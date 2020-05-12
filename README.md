@@ -10,4 +10,4 @@ Juan José Garzón :)
 Logo de Github
 =============================
 
-![Estrellas, Noche](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flogotipo-de-github_25231&psig=AOvVaw0RVCqqq3_fMU_u-B5F5Oi2&ust=1589395209490000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD1k9r8rukCFQAAAAAdAAAAABAD)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globetesting.com%2F2019%2F03%2Falm-octane-pensando-en-integraciones%2Fgithublogo%2F&psig=AOvVaw0RVCqqq3_fMU_u-B5F5Oi2&ust=1589395209490000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD1k9r8rukCFQAAAAAdAAAAABAH)
