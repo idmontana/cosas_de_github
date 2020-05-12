@@ -7,7 +7,7 @@ Este repositorio fue realizado por Iván Darío Montaña, estudiante de séptimo
 ## En colaboración con:
 Juan José Garzón :)
 
-Logo de Github
-=============================
+### Logo de Github
+
 
 ![Logo](https://www.globetesting.com/wp-content/uploads/2019/01/githublogo.png)
